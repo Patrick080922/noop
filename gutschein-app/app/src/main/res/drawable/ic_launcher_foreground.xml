@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ticket body with semicircle notches left and right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,36 L78,36 Q82,36 82,40 L82,48 A6,6 0 0,0 82,60 L82,68 Q82,72 78,72 L30,72 Q26,72 26,68 L26,60 A6,6 0 0,0 26,48 L26,40 Q26,36 30,36 Z" />
+    <!-- tear line -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M62,39h2v5h-2zM62,47h2v5h-2zM62,56h2v5h-2zM62,64h2v5h-2z" />
+    <!-- star -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,43 L46.6,49.2 L53.3,49.7 L48.2,54.1 L49.8,60.6 L44,57.1 L38.2,60.6 L39.8,54.1 L34.7,49.7 L41.4,49.2 Z" />
+    <!-- small coin dot -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M72,54m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
